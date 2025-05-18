@@ -1,6 +1,6 @@
 # HandyNote - Lightweight Note-Taking Application
 
-![HandyNote Screenshot](images/screenshot1.png) <!-- Add a screenshot if available -->
+![HandyNote Screenshot](images/screenshot.png) <!-- Add a screenshot if available -->
 
 A simple and intuitive note-taking application built with PyQt5, featuring quick file operations and a clean interface.
 

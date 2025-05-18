@@ -21,7 +21,7 @@ class HandyNoteApp(QMainWindow):
     def init_ui(self):
         self.setGeometry(100, 100, 600, 570)
         self.setWindowTitle(f"{APP_NAME} - {DEFAULT_TITLE}")
-        self.setWindowIcon(QIcon("images/nameOrderError.png"))
+        self.setWindowIcon(QIcon("images/handy.png"))
         
         self.create_widgets()
         self.create_toolbar()
